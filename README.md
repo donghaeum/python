@@ -10,3 +10,14 @@ corona.csv
 
 ## Result
 
+5번 감염자
+
+<img width=1000 src=https://github.com/donghaeum/python/blob/master/picture/corona05.PNG>
+
+12번 감염자
+
+<img width=1000 src=https://github.com/donghaeum/python/blob/master/picture/corona12.PNG>
+
+15번 감염자
+
+<img width=1000 src=https://github.com/donghaeum/python/blob/master/picture/corona15.PNG>
