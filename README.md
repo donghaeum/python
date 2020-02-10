@@ -2,7 +2,9 @@
 
 ## 개발 환경
 
-Jupyter Notebook 6.0.1
+* Python 3.7
+
+* Jupyter Notebook 6.0.1
 
 ## Data
 
